@@ -109,7 +109,7 @@ SPACESHIP_PROMPT_ORDER=(
   node          # Node.js section
   docker        # Docker section
   venv          # virtualenv section
-  pyenv         # Pyenv section
+  python        # Python section
 )
 
 
